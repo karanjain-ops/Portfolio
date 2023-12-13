@@ -763,7 +763,9 @@ main {
 /*-----------------------------------*\
   #RESUME
 \*-----------------------------------*/
-
+.dn-icon{
+  font-size: 25px;
+}
 .article-title { margin-bottom: 30px; }
 
 
@@ -1249,6 +1251,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .project-img,
   .blog-banner-box { height: auto; }
+  .dn-icon{
+    font-size: 25px;
+  }
 
 }
 
@@ -1311,7 +1316,9 @@ textarea.form-input::-webkit-resizer { display: none; }
     font-size: 18px;
   }
 
-
+  .dn-icon{
+    font-size: 30px;
+  }
 
   /**
    * #MAIN
@@ -1593,7 +1600,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .modal-avatar-box img { width: 80px; }
 
-
+  .dn-icon{
+    font-size: 30px;
+  }
 
   /**
    * PORTFOLIO
@@ -1667,7 +1676,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   }
 
-
+  .dn-icon{
+    font-size: 30px;
+  }
 
   /**
    * REUSED STYLE
@@ -1785,7 +1796,9 @@ textarea.form-input::-webkit-resizer { display: none; }
   body::-webkit-scrollbar-thumb:hover { background: hsla(0, 0%, 100%, 0.15); }
 
   body::-webkit-scrollbar-button { height: 60px; }
-
+  .dn-icon{
+    font-size: 30px;
+  }
 
 
   /**
